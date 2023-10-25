@@ -1,0 +1,550 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "routePath": "/hit",
+      "caption": "Burger",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/xit.webp?alt=media&token=d24c1cfa-ba39-45b8-b27d-9eb12f87a411"
+    },
+    {
+      "id": 2,
+      "routePath": "/order",
+      "caption": "Order",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/order.webp?alt=media&token=68571170-1f12-4e41-a6d9-a80f143a7e29"
+    },
+    {
+      "id": 3,
+      "routePath": "/delivery",
+      "caption": "Free",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/free.webp?alt=media&token=b7cb4d4b-b698-4792-81f2-f7c9dc1765c9"
+    },
+    {
+      "id": 4,
+      "routePath": "/bonus",
+      "caption": "Gift",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/Podarka.webp?alt=media&token=198dc640-5b4f-46f6-93c0-49000a9a1873"
+    },
+    {
+      "id": 5,
+      "routePath": "/rating",
+      "caption": "Rating",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/rating.webp?alt=media&token=482feb33-a5cc-45b0-934d-c0100006178f"
+    },
+    {
+      "id": 6,
+      "routePath": "/childish",
+      "caption": "Menu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/menu.webp?alt=media&token=23191a61-4931-4ec0-939f-f36d644c69e1"
+    },
+    {
+      "id": 7,
+      "routePath": "/only",
+      "caption": "Bonus",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/only.webp?alt=media&token=cceda783-fb3a-454a-97a6-10e3240040be"
+    }
+  ],
+  "season": [
+    {
+      "id": 1,
+      "caption": "Burger",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/chief.webp?alt=media&token=6adaff1e-86f4-4ee2-a988-7e4a28f1a233",
+      "title": "Burger Chief",
+      "paragraph": "Fast Food * Popular",
+      "rate": 4.7
+    },
+    {
+      "id": 2,
+      "caption": "Dodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/urban.webp?alt=media&token=f9de68c7-4d94-4d99-a317-a32f313d5a83",
+      "title": "Dodo Pizza",
+      "paragraph": "Pizzeria",
+      "rate": 4.8
+    },
+    {
+      "id": 3,
+      "caption": "Oktepa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/oktepa.webp?alt=media&token=04086cb1-52e9-4b9a-bbfb-e615bfaa35b3",
+      "title": "Oktepa Lavash",
+      "paragraph": "Fast Food * Popular * Pizzeria",
+      "rate": 4.6
+    },
+    {
+      "id": 4,
+      "caption": "Maxway",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/chopper.webp?alt=media&token=de866a32-949c-4ee3-9110-c407a2b1aa52",
+      "title": "Max Way",
+      "paragraph": "Fast Food",
+      "rate": 4.6
+    },
+    {
+      "id": 5,
+      "caption": "Chopper",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/gijduvon.webp?alt=media&token=33886016-2719-4795-ae86-22b7d5551575",
+      "title": "Chopper Pizza",
+      "paragraph": "Pizzeria",
+      "rate": 4.7
+    },
+    {
+      "id": 6,
+      "caption": "Moscow",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/PizzaRitet.webp?alt=media&token=ed51686b-53c4-45de-9bb6-9599b48289f3",
+      "title": "Moscow Pizza & Restaurant",
+      "paragraph": "Pizzeria Fast Food",
+      "rate": 4.7
+    },
+    {
+      "id": 7,
+      "caption": "Pizza",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/wings.webp?alt=media&token=b1ae6145-a87f-4d83-80b7-66f4ae60cf38",
+      "title": "Moscow Pizza",
+      "paragraph": "Pizzeria Fast Food",
+      "rate": 4.6
+    },
+    {
+      "id": 8,
+      "caption": "Wings",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/embassy.webp?alt=media&token=f324f494-5576-4329-819d-383da4e09d3a",
+      "title": "Wings",
+      "paragraph": "Fast Food * Popular",
+      "rate": 4.7
+    },
+    {
+      "id": 9,
+      "caption": "Embassy",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/embassy1.webp?alt=media&token=a220e58c-649d-4dd9-9086-36eca62f598b",
+      "title": "Burger Embassy",
+      "paragraph": "Fast Food",
+      "rate": 4.7
+    }
+  ],
+  "delivery": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/urban.webp?alt=media&token=f9de68c7-4d94-4d99-a317-a32f313d5a83",
+      "title": "Urban",
+      "paragraph": "Fast Food Pizzeria",
+      "rate": 4.6,
+      "price": "29,300 soum"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/rakovyna.webp?alt=media&token=da6d6103-8418-401a-8c4b-d7efb395d455",
+      "title": "Rakovyna",
+      "paragraph": "European",
+      "rate": 4.4,
+      "price": "27000 soum"
+    },
+    {
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/kitchen.webp?alt=media&token=d4492543-a655-42d7-98f6-264477a6a46d",
+      "title": "Kitchen by STARS",
+      "paragraph": "European * Pizzeria",
+      "rate": "New",
+      "price": "40.300 soum"
+    },
+    {
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/cafe.webp?alt=media&token=bc8ec576-9e20-46b7-8289-7118a8cb1869",
+      "title": "Kabuki",
+      "paragraph": "Asian",
+      "rate": "New",
+      "price": "33.500 soum"
+    },
+    {
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/kabuki.webp?alt=media&token=773fc76b-df25-4cb2-a1b7-9da4488b9a0c",
+      "title": "Cafe 49",
+      "paragraph": "European * Pizzeria * Fast Food * Coffee Shop",
+      "rate": "4.1",
+      "price": "32.800 soum"
+    },
+    {
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/gijduvon.webp?alt=media&token=33886016-2719-4795-ae86-22b7d5551575",
+      "title": "G'ijduvon Taomlari Shirin",
+      "paragraph": "Uzbek",
+      "rate": "4.6",
+      "price": "24.500 soum"
+    },
+    {
+      "id": 7,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/sushi.webp?alt=media&token=5f48515a-ac1b-4d77-8571-57be6396a34a",
+      "title": "Sushi Co.",
+      "paragraph": "Asian",
+      "rate": "4.2",
+      "price": "19.800 soum"
+    },
+    {
+      "id": 8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/mazami.webp?alt=media&token=25b34edd-17a2-4e3b-8cbb-d8d0899424f6",
+      "title": "Mazami",
+      "paragraph": "Asian",
+      "rate": "4.6",
+      "price": "39.800 soum"
+    },
+    {
+      "id": 9,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/lublin.webp?alt=media&token=6bdba005-be95-41d7-b3c9-f6c234c7624e",
+      "title": "Lublin",
+      "paragraph": "European * Deserts",
+      "rate": "4.7",
+      "price": "51,000 soum"
+    },
+    {
+      "id": 10,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/PizzaRitet.webp?alt=media&token=ed51686b-53c4-45de-9bb6-9599b48289f3",
+      "title": "PizzaRitet",
+      "paragraph": "Fast Food Pizzeria",
+      "rate": "4.6",
+      "price": "25.000 soum"
+    },
+    {
+      "id": 11,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/manti.webp?alt=media&token=90f9976b-1f93-4938-be0d-b0fa00a7e2f4",
+      "title": "Lagman Y Manti",
+      "paragraph": "Uzbek",
+      "rate": "4.6",
+      "price": "24.500 soum"
+    },
+    {
+      "id": 12,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/chill.webp?alt=media&token=a0bf60f2-6c6d-4b09-bfca-6e69c9349791",
+      "title": "Chill Out",
+      "paragraph": "European",
+      "rate": "5",
+      "price": "36.300 soum"
+    },
+    {
+      "id": 13,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/bread.webp?alt=media&token=f369e9af-47cb-4925-980f-fa4541e5baf5",
+      "title": "Bread traditions",
+      "paragraph": "Dessert",
+      "rate": "4.7",
+      "price": "26.300 soum"
+    },
+    {
+      "id": 14,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/meat.webp?alt=media&token=5d15d88c-69a7-4fc1-ae19-922e15b89760",
+      "title": "Meat Steak House",
+      "paragraph": "Products * European",
+      "rate": "4.6",
+      "price": "26.500 soum"
+    },
+    {
+      "id": 15,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/cheese.webp?alt=media&token=792f5b36-63ea-490b-8bd1-938e573090df",
+      "title": "Cheese Factory",
+      "paragraph": "European * Pizzeria * Barbecue",
+      "rate": "4.8",
+      "price": "31.800 soum"
+    },
+    {
+      "id": 16,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/lavash.webp?alt=media&token=fe59a685-8978-440c-97af-c4f9c7608df2",
+      "title": "Oktepa Lavash",
+      "paragraph": "Fast Food * Popular * Pizzeria",
+      "rate": "4.6",
+      "price": "20.300 soum"
+    },
+    {
+      "id": 17,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/pizza.webp?alt=media&token=1feaf25f-7187-4732-b5a5-81913f2bdbd6",
+      "title": "Moscow Pizza & Restaurant",
+      "paragraph": "Pizzeria Fast Food",
+      "rate": "4.7",
+      "price": "20.300 soum"
+    },
+    {
+      "id": 18,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/seafood.webp?alt=media&token=df85cb06-d998-4bbf-a7c5-0d41e8e83093",
+      "title": "Umami Sushi - Seafood",
+      "paragraph": "Asian * PP",
+      "rate": "4.7",
+      "price": "28.800 soum"
+    },
+    {
+      "id": 19,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/burembass.webp?alt=media&token=3c5c1af9-1a92-4e7d-ab5a-e8007ee4b8f1",
+      "title": "Smoke Dream",
+      "paragraph": "European * Pizzeria * Fast Food * Barbecue",
+      "rate": "4.7",
+      "price": "26.300 soum"
+    },
+    {
+      "id": 20,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/maxway.webp?alt=media&token=6859d23c-aa1a-4e6d-8b6a-5be2223dbbd4",
+      "title": "Max Way",
+      "paragraph": "Fast Food",
+      "rate": "4.6",
+      "price": "21.800 soum"
+    },
+    {
+      "id": 21,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/sushi.webp?alt=media&token=5f48515a-ac1b-4d77-8571-57be6396a34a",
+      "title": "Sushi Moscow",
+      "paragraph": "Asian",
+      "rate": "4.4",
+      "price": "26.300 soum"
+    },
+    {
+      "id": 22,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/burembass.webp?alt=media&token=3c5c1af9-1a92-4e7d-ab5a-e8007ee4b8f1",
+      "title": "Burger Embasssy",
+      "paragraph": "Fast Food",
+      "rate": "4.7",
+      "price": "26.800 soum"
+    },
+    {
+      "id": 23,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/mospizza.webp?alt=media&token=14bc5a2d-067f-4805-89e3-b54d2f6a4f65",
+      "title": "Moscow Pizza",
+      "paragraph": "Fast Food Pizzeria",
+      "rate": "4.7",
+      "price": "26.300 soum"
+    },
+    {
+      "id": 24,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/turkish.webp?alt=media&token=0706796c-0f6d-472d-b8a1-6baee522ffeb",
+      "title": "Turkish Yard",
+      "paragraph": "European * Barbeque * Turkish",
+      "rate": "4.5",
+      "price": "41.500 soum"
+    },
+    {
+      "id": 25,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/icegold.webp?alt=media&token=fbf9b7c0-2fd2-4665-a8ec-f3c5be708730",
+      "title": "Ice and Gold Exclusive",
+      "paragraph": "Deserts * Ice cream",
+      "rate": "4.",
+      "price": "29.000 soum"
+    },
+    {
+      "id": 26,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/bar.webp?alt=media&token=d85f1ec5-cec6-4cad-a713-c8fbbe8afbea",
+      "title": "Pizza Bar (Pizza)",
+      "paragraph": "Pizzeria * Fast Food",
+      "rate": "4.7",
+      "price": "49.000 soum"
+    },
+    {
+      "id": 27,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/dessert.webp?alt=media&token=ce37122e-09e4-41b5-8be3-b5d684f4a203",
+      "title": "Desert Mir Bakery",
+      "paragraph": "Coffee shop * Fast Food * Pizzeria * Deserts",
+      "rate": "4.6",
+      "price": "30.800 soum"
+    },
+    {
+      "id": 28,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/dodo.webp?alt=media&token=85df2dc6-8f8f-4e80-be9d-1cd3723cac8c",
+      "title": "Dodo Pizza",
+      "paragraph": "Pizzeria",
+      "rate": "4.8",
+      "price": "22.800 soum"
+    },
+    {
+      "id": 29,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/fabis.webp?alt=media&token=7c04a9c1-1aaf-4fa9-972c-4287fa3c7176",
+      "title": "Bar 25",
+      "paragraph": "European * Barbeque",
+      "rate": "4.4",
+      "price": "54.300 soum"
+    },
+    {
+      "id": 30,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(18).webp?alt=media&token=6968f696-6129-41e8-9922-13f26d272939",
+      "title": "Fabis",
+      "paragraph": "European * Barbeque",
+      "rate": "4.5",
+      "price": "35.000 soum"
+    }
+  ],
+  "receive": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/tasushi.webp?alt=media&token=127506af-0366-496a-8c00-30688211216d",
+      "title": "Tasushi",
+      "paragraph": "Asian",
+      "rate": 4.6,
+      "price": "26.300 soum"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/yard.webp?alt=media&token=94b228c3-0d37-4134-92c1-889fe394e25f",
+      "title": "Turkish Yard",
+      "paragraph": "European * Barbeque * Turkish",
+      "rate": 4.5,
+      "price": "40.500 soum"
+    },
+    {
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/osiyo.webp?alt=media&token=04f5774c-7684-4be4-9c5f-95e0fc75b31d",
+      "title": "Aka va uka milliy taomlar",
+      "paragraph": "Uzbek * Barbeque",
+      "rate": 4.6,
+      "price": "18.000 soum"
+    },
+    {
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/little.webp?alt=media&token=b273297f-5ccc-4970-a81f-bc4beaac32ee",
+      "title": "Little Italy",
+      "paragraph": "Pizzeria",
+      "rate": 4.7,
+      "price": "18.500 soum"
+    },
+    {
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/frenchdog.webp?alt=media&token=5c185499-63e2-482a-a766-428f2c6b35e0",
+      "title": "Frenchdog",
+      "paragraph": "Fast Food",
+      "rate": 4,
+      "price": "47.500 soum"
+    },
+    {
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/pomo.webp?alt=media&token=7c205226-1ef3-4c93-ad06-d0e815221460",
+      "title": "Pomodoro",
+      "paragraph": "coffee house",
+      "rate": 4.6,
+      "price": "43.000 soum"
+    },
+    {
+      "id": 7,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/osiyo.webp?alt=media&token=04f5774c-7684-4be4-9c5f-95e0fc75b31d",
+      "title": "Osiyo Buxoro",
+      "paragraph": "Uzbek",
+      "rate": 4.6,
+      "price": "28.000 soum"
+    },
+    {
+      "id": 8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/pizza.webp?alt=media&token=1feaf25f-7187-4732-b5a5-81913f2bdbd6",
+      "title": "Moscow Pizza & Restaurant",
+      "paragraph": "Pizzeria Fast Food",
+      "rate": "4.7",
+      "price": "20.300 soum"
+    }
+  ],
+  "rating": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/tasushi.webp?alt=media&token=127506af-0366-496a-8c00-30688211216d",
+      "title": "Tasushi",
+      "paragraph": "Asian",
+      "rate": 4.6,
+      "price": "26.300 soum"
+    }
+  ],
+  "childish": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/urban.webp?alt=media&token=f9de68c7-4d94-4d99-a317-a32f313d5a83",
+      "title": "Urban",
+      "paragraph": "Fast Food Pizzeria",
+      "rate": 4.6,
+      "price": "29,300 soum"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/rakovyna.webp?alt=media&token=da6d6103-8418-401a-8c4b-d7efb395d455",
+      "title": "Rakovyna",
+      "paragraph": "European",
+      "rate": 4.4,
+      "price": "27000 soum"
+    }
+  ],
+  "only": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/kabuki.webp?alt=media&token=773fc76b-df25-4cb2-a1b7-9da4488b9a0c",
+      "title": "Cafe 49",
+      "paragraph": "European * Pizzeria * Fast Food * Coffee Shop",
+      "rate": "4.1",
+      "price": "32.800 soum"
+    },
+    {
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/gijduvon.webp?alt=media&token=33886016-2719-4795-ae86-22b7d5551575",
+      "title": "G'ijduvon Taomlari Shirin",
+      "paragraph": "Uzbek",
+      "rate": "4.6",
+      "price": "24.500 soum"
+    },
+    {
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/sushi.webp?alt=media&token=5f48515a-ac1b-4d77-8571-57be6396a34a",
+      "title": "Sushi Co.",
+      "paragraph": "Asian",
+      "rate": "4.2",
+      "price": "19.800 soum"
+    },
+    {
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/mazami.webp?alt=media&token=25b34edd-17a2-4e3b-8cbb-d8d0899424f6",
+      "title": "Mazami",
+      "paragraph": "Asian",
+      "rate": "4.6",
+      "price": "39.800 soum"
+    },
+    {
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/lublin.webp?alt=media&token=6bdba005-be95-41d7-b3c9-f6c234c7624e",
+      "title": "Lublin",
+      "paragraph": "European * Deserts",
+      "rate": "4.7",
+      "price": "51,000 soum"
+    },
+    {
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/PizzaRitet.webp?alt=media&token=ed51686b-53c4-45de-9bb6-9599b48289f3",
+      "title": "PizzaRitet",
+      "paragraph": "Fast Food Pizzeria",
+      "rate": "4.6",
+      "price": "25.000 soum"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "routePath": "/loaf",
+      "caption": "Burger",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/7aZ5OYwA-aLxP6BKxhuVG.webp?alt=media&token=e2cb62bf-5598-42cf-9060-2bc1f102765f"
+    },
+    {
+      "id": 2,
+      "routePath": "/plate",
+      "caption": "Order",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/7b7mRsM0j8IgN_j60W3xI.webp?alt=media&token=59add081-231e-47b5-a12c-61099648346b"
+    },
+    {
+      "id": 3,
+      "routePath": "/mart",
+      "caption": "Free",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(1).webp?alt=media&token=f983b649-a59e-4059-afc4-8b34e80155bf"
+    },
+    {
+      "id": 4,
+      "routePath": "/sportion",
+      "caption": "Gift",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(2).webp?alt=media&token=6be047e9-427e-4a08-8fd0-775855da4d39"
+    },
+    {
+      "id": 5,
+      "routePath": "/kitchen",
+      "caption": "Rating",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(3).webp?alt=media&token=9342cb9c-52b5-4c17-9d83-0b03b78d3e91"
+    },
+    {
+      "id": 6,
+      "routePath": "/butcoin",
+      "caption": "Menu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(4).webp?alt=media&token=85fcefcc-93c7-4b38-85be-2c316235756d"
+    },
+    {
+      "id": 7,
+      "routePath": "/planeta",
+      "caption": "Bonus",
+      "image": "https://firebasestorage.googleapis.com/v0/b/database-37af1.appspot.com/o/ezgif.com-gif-maker%20(5).webp?alt=media&token=59e1cf64-5820-46be-8287-b46c1aa3134d"
+    }
+  ]
+}
